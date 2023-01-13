@@ -1,0 +1,7 @@
+table {
+    max-width: 100%;
+  }
+
+  th,td{
+    border: #000 solid 2px;
+  }
